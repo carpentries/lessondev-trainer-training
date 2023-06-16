@@ -1,10 +1,17 @@
-# The Carpentries Workbench Template Markdown Lesson
+# The Carpentries Lesson Developer Trainer Training
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
+This is a curriculum for training Carpentries Lesson Developer Trainers,
+preparing them to teach [Collaborative Lesson Development Training (CLDT)][cldt].
 
-To get started using this template, make sure you're logged into Github and visit https://github.com/carpentries/workbench-template-md/generate
-and follow the instructions.
+It is in the early stages of design.
 
-If you have any questions, contact [@zkamvar](https://github.com/zkamvar)
+## Maintainers
 
-[workbench]: https://carpentries.github.io/sandpaper-docs/
+The current Maintainer team is:
+
+- [Toby Hodges](https://github.com/tobyhodges/)
+- [Aleksandra Nenadic](https://github.com/anenadic/)
+- [Sarah Stevens](https://github.com/sstevens2/)
+
+
+[cldt]: https://carpentries.github.io/lesson-development-training/
