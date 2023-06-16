@@ -42,36 +42,6 @@ documentation][template-doc].
 2. If you wish to change the template used for workshop websites, please refer
    to [The Workbench documentation][template-doc].
 
-
-### What to Contribute
-
-There are many ways to contribute, from writing new exercises and improving
-existing ones to updating or filling in the documentation and submitting [bug
-reports][issues] about things that do not work, are not clear, or are missing.
-If you are looking for ideas, please see [the list of issues for this
-repository][repo], or the issues for [Data Carpentry][dc-issues], [Library
-Carpentry][lc-issues], and [Software Carpentry][swc-issues] projects.
-
-Comments on issues and reviews of pull requests are just as welcome: we are
-smarter together than we are on our own. **Reviews from novices and newcomers
-are particularly valuable**: it's easy for people who have been using these
-lessons for a while to forget how impenetrable some of this material can be, so
-fresh eyes are always welcome.
-
-### What *Not* to Contribute
-
-Our lessons already contain more material than we can cover in a typical
-workshop, so we are usually *not* looking for more concepts or tools to add to
-them. As a rule, if you want to introduce a new idea, you must (a) estimate how
-long it will take to teach and (b) explain what you would take out to make room
-for it. The first encourages contributors to be honest about requirements; the
-second, to think hard about priorities.
-
-We are also not looking for exercises or other material that only run on one
-platform. Our workshops typically contain a mixture of Windows, macOS, and
-Linux users; in order to be usable, our lessons must run equally well on all
-three.
-
 ### Using GitHub
 
 If you choose to contribute via GitHub, you may want to look at [How to
