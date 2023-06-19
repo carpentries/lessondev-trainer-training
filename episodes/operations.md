@@ -6,96 +6,61 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- What is the format and schedule of Collaborative Lesson Development Training?
+- What pathways and support is available for lessons in The Carpentries?
+- What do lesson developers need to do to comple the training and get certified?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+By the end of this session, participants should be able to...
+
+- describe the lesson life cycle 
+  and the pathways a lesson can follow in The Carpentries community.
+- prepare to teach Collaborative Lesson Development Training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
+## Reading List
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+- [CLDT episode: The Carpentries Workbench](https://carpentries.github.io/lesson-development-training/07-infrastructure.html)
+- FIXME
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+:::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-:::::::::::::::::::::::: solution 
+## Discussion Questions
 
-You can add a line with at least three colons and a `solution` tag.
+- FIXME
 
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Figures
 
-You can use pandoc markdown for static figures with the following syntax:
+:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
+## Trainer Checkout
 
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
+Do the following to complete your Trainer certification:
 
-## Math
+1. Submit a pull request to fix [an issue on the Collaborative Lesson Development Training curriculum][cldt-issues].
+2. Teach Collaborative Lesson Development Training alongside an experienced Trainer.
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- Collaborative Lesson Development Training is designed to be taught in two parts, 
+  with an extended break in between.
+- The Carpentries Incubator is a space for community development of lessons. Lessons developed in the Incubator can be submitted for open peer review and acceptance to The Carpentries Lab, and/or adoption as a new official lesson one of The Carpentries lesson programs.
+- To complete certification, trainees must participate in both parts of the training and perform a trial run of at least some of their lesson during the break.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[cldt-issues]: https://github.com/carpentries/lesson-development-training/issues

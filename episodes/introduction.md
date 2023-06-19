@@ -1,102 +1,95 @@
 ---
-title: "Using Markdown"
-teaching: 10
-exercises: 2
+title: "Welcome"
+teaching: 30
+exercises: 30
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What can I expect from this Training?
+- What is expected of me in this Training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+By the end of this session, participants should be able to...
+
+- describe the format of the Trainer Training program and sessions.
+- summarise the lesson development experience of the participants in the cohort.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+## Reading List
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+- [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+:::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+## Introductions
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+The first discussion session will begin with a full round of Introductions,
+where each trainee will be asked to share some details about themselves
+and their past experience with curriculum development and The Carpentries.
 
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+:::::::::::::::::::::::::::::::::::::::::::::::::: callout
 
-:::::::::::::::::::::::: solution 
+## Curriculum is a work in progress
 
-You can add a line with at least three colons and a `solution` tag.
+Any lesson or curriculum has room for improvement,
+especially when it is relatively new and not extensively tested.
+The CLDT curriculum is still in the early stages of the development process:
+it has only been taught twice, both times by its primary authors.
+If you think that something is wrong, missing, or could be improved somehow,
+please report it by opening an issue on [the source repository][cldt-repo] 
+or - even better - open a pull request to suggest the improvement.
 
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
+The curriculum belongs to the community - let's develop it together!
 
-## Figures
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-You can use standard markdown for static figures with the following syntax:
 
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
 
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
+:::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-## Math
+## Discussion Questions
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
+- FIXME
 
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Cool, right?
+:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## Homework
+
+- FIXME
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
+
+## Reading for Next Week
+
+- FIXME
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- The training program will provide an overview of the Collaborative Lesson Development Training curriculum,
+  the key concepts and principles behind it,
+  and opportunities to discuss all of this with the other members of the cohort.
+- In addition to attending weekly discussion sessions,
+  trainees are required to complete reading and occasional homework tasks
+  before they become certified Trainers.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[r-markdown]: https://rmarkdown.rstudio.com/
+[cldt-repo]: https://github.com/carpentries/lesson-development-training/
