@@ -31,17 +31,6 @@ By the end of this session, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-:::::::::::::::::::::::::::::::::::::::::::::::::: discussion
-
-## Introductions
-
-The first discussion session will begin with a full round of Introductions,
-where trainees and facilitators will be given the opportunity to share some details about themselves
-and their past experience with curriculum development and The Carpentries.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 :::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
 ## Discussion Questions

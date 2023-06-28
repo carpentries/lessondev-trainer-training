@@ -33,11 +33,12 @@ By the end of this session, participants should be able to...
 ## Introductions
 
 The first discussion session will begin with a full round of Introductions,
-where each trainee will be asked to share some details about themselves
+where trainees and facilitators will be given the opportunity to share some details about themselves
 and their past experience with curriculum development and The Carpentries.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+FIXME: Add more text about the reading each week and discussion sessions to set the stage for how trainer training will run.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: callout
 
@@ -45,9 +46,9 @@ and their past experience with curriculum development and The Carpentries.
 
 Any lesson or curriculum has room for improvement,
 especially when it is relatively new and not extensively tested.
-The CLDT curriculum is still in the early stages of the development process:
-it has only been taught twice, both times by its primary authors.
-If you think that something is wrong, missing, or could be improved somehow,
+
+If you think that something is wrong, missing, or could be improved somehow
+in the CLDT curriculum,
 please report it by opening an issue on [the source repository][cldt-repo] 
 or - even better - open a pull request to suggest the improvement.
 
