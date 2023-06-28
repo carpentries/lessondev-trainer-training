@@ -6,96 +6,69 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- What do lesson developers need to be able to do with The Carpentries lesson infrastructure?
+- What are some common points of confusion for lesson developers working with the infrastructure?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+By the end of this session, participants should be able to...
+
+- initialise and configure a new lesson website from a template repository.
+- edit the (R) Markdown source file of an episode.
+- help trainees to troubleshoot their issues with lesson setup and authoring.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
+## Reading List
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+- [CLDT episode: The Carpentries Workbench](https://carpentries.github.io/lesson-development-training/07-infrastructure.html)
+- FIXME
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+:::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-:::::::::::::::::::::::: solution 
+## Discussion Questions
 
-You can add a line with at least three colons and a `solution` tag.
+- a discussion of anticipated sticking points for learners who may not be familiar with git/GitHub/the workbench? 
+- how to support trainees with these sticking points.
 
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Figures
 
-You can use pandoc markdown for static figures with the following syntax:
+:::::::::::::::::::::::::::::::::::::::::::::::::: callout
 
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
+## Useful Lesson Infrastructure Resources
 
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
+- [Introduction to The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/index.html)
+- [The Carpentries Workbench Style Guide](https://carpentries.github.io/sandpaper-docs/style.html)
+- [Component Guide](https://carpentries.github.io/sandpaper-docs/component-guide.html)
+  - Provides a full list of the different classes of fenced div available in the infrastructure
 
-## Math
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
 
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
+:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-Cool, right?
+## Homework/Reading for Next Week
+
+- FIXME
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- Lesson developers will initialise a new lesson from a template repository,
+  which they will then need to configure and start adding episodes to.
+- Developers will often need some support with the first stages of lesson setup,
+  especially if they are not yet familiar with GitHub and/or Markdown.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
