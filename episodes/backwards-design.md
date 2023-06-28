@@ -1,101 +1,72 @@
 ---
 title: 'Backwards Lesson Design'
-teaching: 10
-exercises: 2
+teaching: 30
+exercises: 30
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- What is meant by _backwards design_ of curriculum?
+- What are the main steps of the backwards design process?
+- What are the advantages and disadvantages of backwards design?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+By the end of this session, participants should be able to...
+
+- discuss the application of backwards design to curriculum for short-format training events
+  like Carpentries workshops.
+- list at least three advantages and at least one disadvantage of 
+  taking a backwards design approach to lesson/curriculum design.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
+## Reading List
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
+- FIXME
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+:::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+## Discussion Questions
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- In The Carpentries, we tend to present learning _objectives_ as opposed to _outcomes_. 
+  What distinction, if any, do you see between these two terms?
+  Which do you think is more appropriate?
+  In your opinion, should The Carpentries switch over 
+  e.g. to start listing "Outcomes" instead of "Objectives" on episodes pages?
+- FIXME
 
-::::::::::::::::::::::::::::::::::::: challenge 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Challenge 1: Can you do it?
+:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-What is the output of this command?
+## Homework/Reading for Next Week
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+- FIXME
 
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can use pandoc markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- Backwards design describes a process for curriculum development that 
+  begins with the definition of skills learners will obtain from following the curriculum.
+- The main steps of backwards design are: 
+  - defining learning outcomes, 
+  - designing learning experiences to achieve those outcomes,
+  - developing content to support these experiences,
+  - assessing learners' progress towards the desired outcomes,
+  - and evaluating the curriculum design based on this assessment.
+- Backwards design helps keep curriculum development focussed on the intended learner, 
+  and it can make it easier to trim down lesson content to focus only on 
+  what is required to achieve speicfic outcomes.
+- Creating a new lesson/curriculum with backwards design can take more time 
+  than an alternative, "content-first" approach.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
