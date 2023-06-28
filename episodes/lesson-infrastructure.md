@@ -36,7 +36,8 @@ By the end of this session, participants should be able to...
 
 ## Discussion Questions
 
-- FIXME
+- a discussion of anticipated sticking points for learners who may not be familiar with git/GitHub/the workbench? 
+- how to support trainees with these sticking points.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

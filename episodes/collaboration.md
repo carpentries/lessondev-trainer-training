@@ -37,6 +37,7 @@ By the end of this session, participants should be able to...
 - How have you made decisions with collaborators in the past?
 - Did you use any formal decision-making framework(s)?
 - What might be the advantages and drawbacks of using a formal decision-making framework?
+- In your experience, what are some of the advantages and disadvantages of collaborating on a project (lesson development or something else), as opposed to working alone? 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
