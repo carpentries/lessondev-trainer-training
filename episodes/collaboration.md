@@ -34,7 +34,9 @@ By the end of this session, participants should be able to...
 
 ## Discussion Questions
 
-- What decision-making framework(s) have you used in your previous collaborations?
+- How have you made decisions with collaborators in the past?
+- Did you use any formal decision-making framework(s)?
+- What might be the advantages and drawbacks of using a formal decision-making framework?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
