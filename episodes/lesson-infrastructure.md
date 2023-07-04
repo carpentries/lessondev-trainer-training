@@ -1,7 +1,7 @@
 ---
 title: 'Using the Lesson Infrastructure'
-teaching: 10
-exercises: 2
+teaching: 5
+exercises: 55
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -24,10 +24,10 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading List
+## Reading List & Homework
 
 - [CLDT episode: The Carpentries Workbench](https://carpentries.github.io/lesson-development-training/07-infrastructure.html)
-- FIXME
+  - Please follow the steps in the episode, creating and configuring a new lesson repository, while you read through the content.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -36,8 +36,21 @@ By the end of this session, participants should be able to...
 
 ## Discussion Questions
 
-- a discussion of anticipated sticking points for learners who may not be familiar with git/GitHub/the workbench? 
-- how to support trainees with these sticking points.
+- The reading/homework task for this week asked you to read through and follow the steps 
+  in the Carpentries Workbench episode of the CLDT curriculum.
+    - Were you able to do this?
+    - If you got stuck at any point while following those steps:
+        - where did you get stuck?
+        - were you able to find a solution to your problem and continue? if so, what did you do to find the solution?
+- Although [some experience of GitHub is specified as a prerequisite for CLDT](https://carpentries.github.io/lesson-development-training/index.html#prerequisites),
+  we can expect some trainees to arrive with little familiarity or confidence with the platform 
+  and the terminology associated with Git and GitHub.
+  Furthermore, this may be the first time trainees have encountered a GitHub Pages project.
+    - What "sticking points" do you anticipate among trainees learning to use the infrastructure to build a lesson website?
+- What strategies could Trainers/The Carpentries adopt to support trainees as they learn these skills
+  - before the training?
+  - during training?
+  - after training?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
