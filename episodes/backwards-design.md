@@ -42,7 +42,9 @@ By the end of this session, participants should be able to...
   Which do you think is more appropriate?
   In your opinion, should The Carpentries switch over 
   e.g. to start listing "Outcomes" instead of "Objectives" on episodes pages?
-- FIXME
+- What are the three stages of the backward design process? How are they addressed in the lesson development process?
+- How to decide what to teach first? How to decide what not to teach
+- What are the advantages and disadvantages of backward design?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
