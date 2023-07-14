@@ -25,8 +25,8 @@ By the end of this session, participants should be able to...
 
 ## Reading List
 
-- CLDT - [Collaborating with Your Team Episode](https://carpentries.github.io/lesson-development-training/24-collaborating.html)
-- CLDT - [Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/26-external.html)
+- [CLDT episode: Collaborating with Your Team](https://carpentries.github.io/lesson-development-training/24-collaborating.html)
+- [CLDT episode: Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/26-external.html)
 - [Greg Wilson's Blogpost on Martha's Rules](https://third-bit.com/files/2020/08/marthas/)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
