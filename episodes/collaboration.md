@@ -1,7 +1,7 @@
 ---
 title: 'Collaboration'
-teaching: 10
-exercises: 2
+teaching: 5
+exercises: 55
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
