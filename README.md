@@ -12,6 +12,7 @@ The current Maintainer team is:
 - [Toby Hodges](https://github.com/tobyhodges/)
 - [Aleksandra Nenadic](https://github.com/anenadic/)
 - [Sarah Stevens](https://github.com/sstevens2/)
+- [Mateusz Kuzak](https://github.com/mkuzak)
 
 
 [cldt]: https://carpentries.github.io/lesson-development-training/
