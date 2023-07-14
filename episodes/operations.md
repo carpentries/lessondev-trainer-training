@@ -46,13 +46,14 @@ a mini-workshop where they teach a part of the lesson they are developing
 and gather feedback (directly and indirectly)
 about how effective their content is for teaching the objective skills.
 
-![Collaborative Lesson Development Training is designed to be taught over three days
-(six half days),
-with an extended break between the first two days ("part 1")
-and the last day ("part 2").
+![Collaborative Lesson Development Training is designed to be taught over six half days,
+with an extended break between **part 1** (half days 1-4)
+and **part 2** (half days 5-6)
+If taught in-person, the schedule could be adjusted to teaching part 1 in 2 full days and following up with part 2 in 1 full day.
 The training in part 1 focusses on good practices in lesson design and development,
 and the concepts and skills needed to build a lesson website with The Carpentries lesson infrastructure.
-Part 2 of the training begins with a reflective discussion of lesson deisgn and iterative development,
+Between part 1 and part 2 the participants schedule a session to trail parts of their lesson with a real (or mock) audience and collect feedback.
+Part 2 of the training begins with a reflective discussion of the trial runs to encourage participants to think about lesson design and iterative development,
 before shifting focus to the skills required for effective collaboration on open source projects.
 ](fig/cldt-structure.svg){
 alt="A graphical representation of the schedule and structure of collaborative lesson development training."
@@ -123,7 +124,7 @@ they will be required to:
   and how all of these things fit together?
 - What questions do you have about how Collaborative Lesson Development Training
   will be administered?
-- How confident are you feeling about teaching the training for the first time?
+- How confident are you feeling about teaching the training for the first time? What support do you need to feel confident in teaching the training?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
