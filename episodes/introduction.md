@@ -53,7 +53,7 @@ as well as reading tasks and occasional, more practical, homework tasks.
 The reading and other tasks have been selected to 
 provide trainees with insight into the CLDT curriculum,
 some of the literature on which it is based,
-and the experience participants will have when following the lesson development training.
+and the experience participants will have when in the lesson development training.
 
 ### Weekly training structure
 
