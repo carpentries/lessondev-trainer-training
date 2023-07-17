@@ -27,7 +27,7 @@ By the end of this session, participants should be able to...
 
 ## Reading List
 
--[CLDT Episode: How We Operate](https://carpentries.github.io/lesson-development-training/19-operations.html)
+- [CLDT Episode: How We Operate](https://carpentries.github.io/lesson-development-training/19-operations.html)
 - The [information on Trial Runs](https://carpentries.github.io/lesson-development-training/trial-runs.html)
   provided to trainees during CLDT.
 - Familiarise yourself with [the list of open issues on the CLDT curriculum repository][cldt-issues], 
