@@ -190,12 +190,21 @@
 <div class="accordion accordion-flush" id="accordionFlushcurrent">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-headingcurrent">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsecurrent" aria-expanded="true" aria-controls="flush-collapsecurrent">
         <span class="visually-hidden">Current Chapter</span>
         <span class="current-chapter">
         6. Training Logistics
         </span>
-      
+      </button>
     </div><!--/div.accordion-header-->
+        
+    <div id="flush-collapsecurrent" class="accordion-collapse collapse show" aria-labelledby="flush-headingcurrent" data-bs-parent="#accordionFlushcurrent">
+      <div class="accordion-body">
+        <ul><li><a href="#structure-of-collaborative-lesson-development-training">Structure of Collaborative Lesson Development Training</a></li>
+<li><a href="#scheduling-trainings">Scheduling Trainings</a></li>
+<li><a href="#what-do-trainees-require-for-certification">What do Trainees require for certification?</a></li>
+        </ul></div><!--/div.accordion-body-->
+    </div><!--/div.accordion-collapse-->
         
   </div><!--/div.accordion-item-->
 </div><!--/div.accordion-flush-->
@@ -251,7 +260,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Training Logistics</h1>
-        <p> Last updated on 2023-06-28 | 
+        <p> Last updated on 2023-07-17 | 
         
         <a href="https://github.com/carpentries/lessondev-trainer-training/edit/main/episodes/operations.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
         
@@ -300,13 +309,75 @@ in The Carpentries community.</li>
 <h3 class="callout-title">Reading List<a class="anchor" aria-label="anchor" href="#reading-list"></a>
 </h3>
 <div class="callout-content">
-<ul><li><a href="https://carpentries.github.io/lesson-development-training/07-infrastructure.html" class="external-link">CLDT
-episode: The Carpentries Workbench</a></li>
-<li>FIXME</li>
-</ul></div>
+<p>-<a href="https://carpentries.github.io/lesson-development-training/19-operations.html" class="external-link">CLDT
+Episode: How We Operate</a> - The <a href="https://carpentries.github.io/lesson-development-training/trial-runs.html" class="external-link">information
+on Trial Runs</a> provided to trainees during CLDT. - Familiarise
+yourself with <a href="https://github.com/carpentries/lesson-development-training/issues" class="external-link">the
+list of open issues on the CLDT curriculum repository</a>, especially
+those assigned to <a href="https://github.com/carpentries/lesson-development-training/milestone/4" class="external-link">the
+‘Beta Release’ milestone</a>. - The content of this episode below.</p>
 </div>
 </div>
-<div id="discussion-questions" class="callout discussion">
+</div>
+<section id="structure-of-collaborative-lesson-development-training"><h2 class="section-heading">Structure of Collaborative Lesson Development Training<a class="anchor" aria-label="anchor" href="#structure-of-collaborative-lesson-development-training"></a>
+</h2>
+<hr class="half-width"><p>Collaborative Lesson Development Training is taught in two parts,
+with an extended break in between. Trainees are asked to teach a “trial
+run” during this break: a mini-workshop where they teach a part of the
+lesson they are developing and gather feedback (directly and indirectly)
+about how effective their content is for teaching the objective
+skills.</p>
+<figure><img src="fig/cldt-structure.svg" style="width:67.0%" alt="A graphical representation of the schedule and structure of collaborative lesson development training." class="figure mx-auto d-block"><figcaption>Collaborative Lesson Development Training is designed
+to be taught over six half days, with an extended break between
+<strong>part 1</strong> (half days 1-4) and <strong>part 2</strong>
+(half days 5-6) If taught in-person, the schedule could be adjusted to
+teaching part 1 in 2 full days and following up with part 2 in 1 full
+day. The training in part 1 focusses on good practices in lesson design
+and development, and the concepts and skills needed to build a lesson
+website with The Carpentries lesson infrastructure. Between part 1 and
+part 2 the participants schedule a session to trail parts of their
+lesson with a real (or mock) audience and collect feedback. Part 2 of
+the training begins with a reflective discussion of the trial runs to
+encourage participants to think about lesson design and iterative
+development, before shifting focus to the skills required for effective
+collaboration on open source projects.</figcaption></figure><p>To make scheduling easier, the parts of the training will be
+“decoupled” i.e. all groups of trainees attending the first part of the
+training will not be required to also join the second part together.
+Groups of trainees collaborating on a lesson will still be required to
+attend each part together.</p>
+<figure><img src="fig/decoupled-training-parts.svg" style="width:67.0%" alt="diagram showing five groups of collaborators distributed across two different events teaching part 1 of Collaborative Lesson Development Training, with the same groups distributed differently across two part 2 training events." class="figure mx-auto d-block"><figcaption>Groups of trainees collaborating on the same lesson
+will be able to choose which second part to attend, without needing to
+join the same session as the other groups they attended the first part
+with.</figcaption></figure></section><section id="scheduling-trainings"><h2 class="section-heading">Scheduling Trainings<a class="anchor" aria-label="anchor" href="#scheduling-trainings"></a>
+</h2>
+<hr class="half-width"><p>At time of writing, details of the system and processes we will use
+to schedule CLDT events have not been finalised. Whatever the system
+looks like in the end, The Carpentries will try to schedule pairs of
+Trainers to teach parts 1 and 2 together, e.g. Trainer A teaches parts 1
+&amp; 2 alongside Trainer B, but this will depend on availability and
+sometimes we may need to mix up Trainers into different combinations
+e.g. Trainer A teaches part 1 with Trainer B, and part 2 with Trainer
+C.</p>
+<p>We will also aim to match the number of part 1 and part 2 events for
+any given timezone, aligning the gaps between parts to give the cohorts
+sufficient time to schedule and complete their Trial Runs. Trainees will
+only be able to sign up to join a part 2 event after registering their
+Trial Run. (Although they can register the Trial Run in advance i.e. it
+will not need to have happened yet).</p>
+<p>Like the system for scheduling trainings, the system/process for
+Trial Run registration is still under development. In the training
+pilots, we used a relatively simple web form but we may want to
+incorporate this data collection into AMY, to integrate it into the
+workflows for tracking trainee progress centrally.</p>
+</section><section id="what-do-trainees-require-for-certification"><h2 class="section-heading">What do Trainees require for certification?<a class="anchor" aria-label="anchor" href="#what-do-trainees-require-for-certification"></a>
+</h2>
+<hr class="half-width"><p>For a trainee to receive their Lesson Developer certificate, they
+will be required to:</p>
+<ol style="list-style-type: decimal"><li>participate in both parts of Collaborative Lesson Development
+Training.</li>
+<li>teach a trial run of part of their lesson, and register that trial
+run with The Carpentries.</li>
+</ol><div id="discussion-questions" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
@@ -314,22 +385,41 @@ episode: The Carpentries Workbench</a></li>
 <h3 class="callout-title">Discussion Questions<a class="anchor" aria-label="anchor" href="#discussion-questions"></a>
 </h3>
 <div class="callout-content">
-<ul><li>FIXME</li>
+<ul><li>This training is about lesson design and development skills, not
+teaching skills. How important do you think it is that every member of a
+collaborative group should <em>have to</em> teach during their trial run
+- as opposed to, say, one member teaching all of the groups’ prepared
+episodes?</li>
+<li>What questions do you have about how lesson development is done in
+The Carpentries community? E.g. The Carpentries Incubator, The
+Carpentries Lab, the lesson life cycle, the individual lesson programs
+of The Carpentries, Curriculum Advisors, Maintainers, and how all of
+these things fit together?</li>
+<li>What questions do you have about how Collaborative Lesson
+Development Training will be administered?</li>
+<li>How confident are you feeling about teaching the training for the
+first time? What support do you need to feel confident in teaching the
+training?</li>
 </ul></div>
 </div>
 </div>
-<div id="trainer-checkout" class="callout discussion">
+<div id="homework-trainer-checkout" class="callout discussion">
 <div class="callout-square">
 <i class="callout-icon" data-feather="message-circle"></i>
 </div>
-<div id="trainer-checkout" class="callout-inner">
-<h3 class="callout-title">Trainer Checkout<a class="anchor" aria-label="anchor" href="#trainer-checkout"></a>
+<div id="homework-trainer-checkout" class="callout-inner">
+<h3 class="callout-title">Homework: Trainer Checkout<a class="anchor" aria-label="anchor" href="#homework-trainer-checkout"></a>
 </h3>
 <div class="callout-content">
 <p>Do the following to complete your Trainer certification:</p>
 <ol style="list-style-type: decimal"><li>Submit a pull request to fix <a href="https://github.com/carpentries/lesson-development-training/issues" class="external-link">an
-issue on the Collaborative Lesson Development Training
-curriculum</a>.</li>
+issue on the Collaborative Lesson Development Training curriculum</a>.
+(Ideally, one of <a href="https://github.com/carpentries/lesson-development-training/milestone/4" class="external-link">the
+issues that need to be addressed for the beta release of the
+curriculum</a>.)
+<ul><li>Schedule a call with one of the facilitators if you would like help
+with this or if you have any follow-up questions.</li>
+</ul></li>
 <li>Teach Collaborative Lesson Development Training alongside an
 experienced Trainer.</li>
 </ol></div>
@@ -359,10 +449,7 @@ during the break.</li>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
-
-
-
-      </div> <!-- / div.lesson-content -->
+</section></div> <!-- / div.lesson-content -->
     </main><!-- / main#main-content.main-content --><nav class="bottom-pagination mx-md-4" aria-label="Previous and Next Chapter"><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link" href="lesson-infrastructure.html"><i aria-hidden="true" class="small-arrow" data-feather="arrow-left"></i>Previous</a>
         <a class="chapter-link float-end" href="index.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
@@ -415,7 +502,7 @@ any links that you are not going to use.
   "url": "https://carpentries.github.io/lessondev-trainer-training/operations.html",
   "identifier": "https://carpentries.github.io/lessondev-trainer-training/operations.html",
   "dateCreated": "2023-06-14",
-  "dateModified": "2023-06-28",
+  "dateModified": "2023-07-17",
   "datePublished": "2023-07-17"
 }
 
