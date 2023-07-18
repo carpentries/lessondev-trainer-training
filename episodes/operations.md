@@ -1,7 +1,7 @@
 ---
 title: 'Training Logistics'
 teaching: 10
-exercises: 2
+exercises: 50
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
