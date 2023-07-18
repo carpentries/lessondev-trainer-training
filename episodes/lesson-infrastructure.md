@@ -72,7 +72,15 @@ By the end of this session, participants should be able to...
 
 ## Homework/Reading for Next Week
 
-- FIXME
+- [CLDT Episode: How We Operate](https://carpentries.github.io/lesson-development-training/19-operations.html)
+- The [information on Trial Runs](https://carpentries.github.io/lesson-development-training/trial-runs.html)
+  provided to trainees during CLDT.
+- Familiarise yourself with [the list of open issues on the CLDT curriculum repository][cldt-issues], 
+  especially those assigned to [the 'Beta Release' milestone][beta-milestone].
+- The content of the next episode of this Trainer Training curriculum:
+  - [_Structure of Collaborative Lesson Development Training_](./operations.md#cldt-structure)
+  - [_Scheduling trainings_](./operations.md#scheduling-cldt)
+  - [_What do Trainees require for certification?_](./operations.md#cldt-certification)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -86,3 +94,5 @@ By the end of this session, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[beta-milestone]: https://github.com/carpentries/lesson-development-training/milestone/4
+[cldt-issues]: https://github.com/carpentries/lesson-development-training/issues
