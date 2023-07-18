@@ -40,6 +40,9 @@ By the end of this session, participants should be able to...
 
 ## Discussion Questions
 
+- What are different formative assessment strategies that can help diagnose issues with the lesson?
+  Discuss the effectiveness of those strategies. 
+  Give some examples of what actionable feedback might look like.
 - How do you think the optimal ratio of time spent on teaching and exercises changes
   as learner expertise increases?
   E.g. do you think a novice lesson will include more content to be taught 
