@@ -49,7 +49,7 @@ By the end of this session, participants should be able to...
 
 ## Homework/Reading for Next Week
 
-- **Homework:** Read [CLDT episode: The Carpentries Workbench](https://carpentries.github.io/lesson-development-training/07-infrastructure.html) and follow the steps in the episode, creating and configuring a new lesson repository, while you read through the content. 
+-  Read [CLDT episode: The Carpentries Workbench](https://carpentries.github.io/lesson-development-training/07-infrastructure.html) and follow the steps in the episode, creating and configuring a new lesson repository, while you read through the content. 
   - Note down any problems you encounter along the way, no matter whether they were minor (i.e. slowed you down or confused you temporarily, but did not stop you from progressing) or major (i.e. you had to give up or ask for help).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
