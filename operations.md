@@ -142,6 +142,33 @@ Do the following to complete your Trainer certification:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
+
+## Optional reflection exercise
+
+Take some time to reflect on everything you have read and discussed during this training,
+and make some notes for yourself that will help you prepare to teach the CLDT curriculum.
+You can do this however you please, but some suggested activities are:
+
+- Draw concept maps of the key topics covered in the curriculum. 
+  For example, you could try to draw a concept map for one (or all!) of the three main themes of the training:
+  lesson design & development, lesson infrastructure, and collaboration skills.
+- The Instructor Training curriculum contains 
+  [a list of Top Ten Tips for Participatory Live Coding](https://carpentries.github.io/instructor-training/17-live.html#top-ten-tips-for-participatory-live-coding-in-a-workshop).
+  Try to prepare a similar list of tips for collaborative lesson development,
+  summarising what you judge to be the most important practices/advice provided in the curriculum. 
+  (Your list does not have to contain exactly ten items!)
+- Connecting the concepts and practices taught in the CLDT curriculum 
+  with your own experience of collaboration and lesson/curriculum design and development,
+  make notes about anecdotes and examples you could share when delivering the training.
+
+Although these activities are primarily intended to be for yourself,
+the notes you take could also be helpful resources for others.
+If you are comfortable doing so, why not share what with the others in your cohort,
+or even open a pull request to add it to [the curriculum repository](https://github.com/carpentries/lessondev-trainer-training)?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
