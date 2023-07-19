@@ -32,12 +32,12 @@ By the end of this session, participants should be able to...
   provided to trainees during CLDT.
 - Familiarise yourself with [the list of open issues on the CLDT curriculum repository][cldt-issues], 
   especially those assigned to [the 'Beta Release' milestone][beta-milestone].
-- The content of this episode below.
+- The content of this episode, below.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Structure of Collaborative Lesson Development Training
+## Structure of Collaborative Lesson Development Training {#cldt-structure}
 
 Collaborative Lesson Development Training is taught in two parts,
 with an extended break in between.
@@ -75,7 +75,7 @@ width="67%"
 }
 
 
-## Scheduling Trainings
+## Scheduling trainings {#scheduling-cldt}
 
 At time of writing, details of the system and processes we will use 
 to schedule CLDT events have not been finalised.
@@ -99,7 +99,7 @@ but we may want to incorporate this data collection into AMY,
 to integrate it into the workflows for tracking trainee progress centrally.
 
 
-## What do Trainees require for certification?
+## What do Trainees require for certification? {#cldt-certification}
 
 For a trainee to receive their Lesson Developer certificate,
 they will be required to:
