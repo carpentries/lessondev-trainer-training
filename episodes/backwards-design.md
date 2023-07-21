@@ -16,7 +16,7 @@ exercises: 30
 
 By the end of this session, participants should be able to...
 
-- discuss the application of backwards design to curriculum for short-format training events
+- discuss the application of backwards design to the curriculum for short-format training events
   like Carpentries workshops.
 - list at least three advantages and at least one disadvantage of 
   taking a backwards design approach to lesson/curriculum design.
@@ -40,11 +40,15 @@ By the end of this session, participants should be able to...
 - In The Carpentries, we tend to present learning _objectives_ as opposed to _outcomes_. 
   What distinction, if any, do you see between these two terms?
   Which do you think is more appropriate?
-  In your opinion, should The Carpentries switch over 
-  e.g. to start listing "Outcomes" instead of "Objectives" on episodes pages?
-- What are the three stages of the backward design process? How are they addressed in the lesson development process?
+  In your opinion, should The Carpentries switch over and
+  start listing "Outcomes" instead of "Objectives" on episodes pages?
+- What are the three stages of the backward design process?
+  How are they addressed in the lesson development process?
+- Why is it helpful to start the lesson development process with the target audience in mind?
+- How is designing assessments helpful in the lesson design process?
 - How to decide what to teach first? How to decide what not to teach
 - What are the advantages and disadvantages of backward design?
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -68,8 +72,8 @@ By the end of this session, participants should be able to...
   - and evaluating the curriculum design based on this assessment.
 - Backwards design helps keep curriculum development focussed on the intended learner, 
   and it can make it easier to trim down lesson content to focus only on 
-  what is required to achieve speicfic outcomes.
-- Creating a new lesson/curriculum with backwards design can take more time 
+  what is required to achieve specific outcomes?
+- Creating a new lesson/curriculum with a backwards design can take more time 
   than an alternative, "content-first" approach.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
