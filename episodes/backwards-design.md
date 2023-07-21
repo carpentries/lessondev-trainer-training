@@ -1,14 +1,14 @@
 ---
-title: 'Backwards Lesson Design'
+title: 'Backward Lesson Design'
 teaching: 30
 exercises: 30
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What is meant by _backwards design_ of curriculum?
-- What are the main steps of the backwards design process?
-- What are the advantages and disadvantages of backwards design?
+- What is meant by _backward design_ of curriculum?
+- What are the main steps of the backward design process?
+- What are the advantages and disadvantages of backward design?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -16,10 +16,10 @@ exercises: 30
 
 By the end of this session, participants should be able to...
 
-- discuss the application of backwards design to the curriculum for short-format training events
+- discuss the application of backward design to the curriculum for short-format training events
   like Carpentries workshops.
 - list at least three advantages and at least one disadvantage of 
-  taking a backwards design approach to lesson/curriculum design.
+  taking a backward design approach to lesson/curriculum design.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -62,18 +62,18 @@ By the end of this session, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Backwards design describes a process for curriculum development that 
+- Backward design describes a process for curriculum development that 
   begins with the definition of skills learners will obtain from following the curriculum.
-- The main steps of backwards design are: 
+- The main steps of backward design are: 
   - defining learning outcomes, 
   - designing learning experiences to achieve those outcomes,
   - developing content to support these experiences,
   - assessing learners' progress towards the desired outcomes,
   - and evaluating the curriculum design based on this assessment.
-- Backwards design helps keep curriculum development focussed on the intended learner, 
+- Backward design helps keep curriculum development focussed on the intended learner, 
   and it can make it easier to trim down lesson content to focus only on 
   what is required to achieve specific outcomes?
-- Creating a new lesson/curriculum with a backwards design can take more time 
+- Creating a new lesson/curriculum with backward design can take more time 
   than an alternative, "content-first" approach.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
