@@ -30,7 +30,7 @@ By the end of this session, participants should be able to...
 - [CLDT episode: Preparing to Teach](https://carpentries.github.io/lesson-development-training/20-preparing.html)
 - [CLDT episode: Reflecting on Trial Runs](https://carpentries.github.io/lesson-development-training/22-reflecting.html)
 - [_Lesson Pilot Workshops - Information for Lesson Developers_](https://docs.carpentries.org/topic_folders/lesson_development/lesson_pilots.html#information-for-lesson-developers) from The Carpentries handbook
-- (**optional**) Sections 4.4 (_Develop assessments to ensure progression_) & 4.5 (_Evaluate course effectiveness_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
+- (**optional**) Refresh your memory of sections 4.4 (_Develop assessments to ensure progression_) & 4.5 (_Evaluate course effectiveness_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1] (part of reading list for [a previous session](./backward-design.md)
 - (**optional**) [The _Exercise Types_ section of _Teaching Tech Together_ by Greg Wilson](http://teachtogether.tech/en/index.html#s:exercises)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
