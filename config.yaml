@@ -61,6 +61,7 @@ contact: 'team@carpentries.org'
 episodes:
 - introduction.md
 - backwards-design.md
+- audience-and-objectives.md
 - iterative-development.md
 - collaboration.md
 - lesson-infrastructure.md
