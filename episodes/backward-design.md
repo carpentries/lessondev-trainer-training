@@ -46,7 +46,7 @@ By the end of this session, participants should be able to...
   How are they addressed in the lesson development process?
 - Why is it helpful to start the lesson development process with the target audience in mind?
 - How is designing assessments helpful in the lesson design process?
-- How to decide what to teach first? How to decide what not to teach
+- How to decide what to teach first? How to decide what not to teach?
 - What are the advantages and disadvantages of backward design?
 
 
