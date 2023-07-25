@@ -125,4 +125,3 @@ The curriculum belongs to the community - let's develop it together!
 
 [cldt]: https://carpentries.github.io/lesson-development-training/index.html
 [cldt-repo]: https://github.com/carpentries/lesson-development-training/
-[^1]: Via A, Palagi PM, Lindvall JM et al. Course design: Considerations for trainers – a Professional Guide [version 1; not peer reviewed]. F1000Research 2020, 9:1377 (document) (https://doi.org/10.7490/f1000research.1118395.1)
