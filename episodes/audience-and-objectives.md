@@ -7,7 +7,7 @@ exercises: 30
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - Why is it essential to understand the target audience before starting the lesson development process?
-- How prior knowledge affects learning?
+- How does prior knowledge affect learning?
 - How do learner profiles help define the learning outcomes?
 - What are SMART objectives?
 - How is Bloom’s Taxonomy used in formulating Learning Objectives?
