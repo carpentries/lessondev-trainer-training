@@ -37,14 +37,14 @@ By the end of this session, participants should be able to...
 
 ## Discussion Questions
 
+- What are the three stages of the backward design process?
+  How are they addressed in the lesson development process?
+- Why is it helpful to start the lesson development process with the target audience in mind?
 - In The Carpentries, we tend to present learning _objectives_ as opposed to _outcomes_. 
   What distinction, if any, do you see between these two terms?
   Which do you think is more appropriate?
   In your opinion, should The Carpentries switch over and
   start listing "Outcomes" instead of "Objectives" on episodes pages?
-- What are the three stages of the backward design process?
-  How are they addressed in the lesson development process?
-- Why is it helpful to start the lesson development process with the target audience in mind?
 - How is designing assessments helpful in the lesson design process?
 - How to decide what to teach first? How to decide what not to teach?
 - What are the advantages and disadvantages of backward design?
