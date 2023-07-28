@@ -6,9 +6,11 @@ exercises: 30
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How describing the target audience helps with lesson design?
+- Why is it essential to understand the target audience before starting the lesson development process?
 - How prior knowledge affects learning?
+- How do learner profiles help define the learning outcomes?
 - What are SMART objectives?
+- How is Bloom’s Taxonomy used in formulating Learning Objectives?
 - How do good objectives help with focus and provide scope for the lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -17,7 +19,11 @@ exercises: 30
 
 By the end of this session, participants should be able to...
 
-- FIXME
+- Explain the importance of a well-defined target audience.
+- Evaluate learner profiles and make suggestions for improvement.
+- Explain how Bloom’s taxonomy and SMART framework can help define learning objectives.
+- Evaluate lesson objectives and make suggestions for improvements.
+- Explain how the objectives are used to give the lesson more focus.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -37,8 +43,12 @@ By the end of this session, participants should be able to...
 :::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
 ## Discussion Questions
-
-- FIXME
+- What should a good learner profile cover?
+- What are the different ways learner profiles can be used?
+- Can you give examples from your teaching of a situation when prior knowledge impacted learning? Did that make you change the way you teach this particular content?
+- Why is specificity important when describing the target audience?
+- What is your experience using Bloom’s taxonomy to define lesson objectives? Do you find it helpful, and why?
+- Can you give some examples of unrealistic and realistic goals for specific audiences?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -57,6 +67,10 @@ By the end of this session, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- FIXME
+- Getting a clear image of the target audience at the beginning of the lesson development process helps with better focus and that the lesson will address the needs of the learners.
+- Understanding your audience’s prior knowledge will help you choose the right level of instruction and set realistic goals.
+- Communicating the target audience clearly will help you attract the right participants.
+- Bloom’s taxonomy serves as a very useful bank of action verbs for use in learning objectives.
+- SMART framework is a valuable tool used for defining clear objectives.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
