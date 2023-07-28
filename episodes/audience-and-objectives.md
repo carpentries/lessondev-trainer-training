@@ -67,7 +67,7 @@ By the end of this session, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Getting a clear image of the target audience at the beginning of the lesson development process helps with better focus and that the lesson will address the needs of the learners.
+- Getting a clear image of the target audience at the beginning of the lesson development process helps with better focus and making sure that the lesson will address the needs of the learners.
 - Understanding your audience’s prior knowledge will help you choose the right level of instruction and set realistic goals.
 - Communicating the target audience clearly will help you attract the right participants.
 - Bloom’s taxonomy serves as a very useful bank of action verbs for use in learning objectives.
