@@ -9,8 +9,7 @@ exercises: 30
 - How describing the target audience helps with lesson design?
 - How prior knowledge affects learning?
 - What are SMART objectives?
-- How do good objectives help with focus and provide scope
-- for the lesson?
+- How do good objectives help with focus and provide scope for the lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
