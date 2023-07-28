@@ -104,8 +104,9 @@ The curriculum belongs to the community - let's develop it together!
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
 ## Reading for Next Week
-
-- FIXME
+- [CLDT episode: Lesson Design](https://carpentries.github.io/lesson-development-training/02-lesson-design.html)
+- [Curriculum Development Handbook: Backward design](https://carpentries.github.io/curriculum-development/guiding-principles.html#backward-design)
+- Section 4 (_Nicholls’ five phases of curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

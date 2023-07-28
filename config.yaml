@@ -60,7 +60,7 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes:
 - introduction.md
-- backwards-design.md
+- backward-design.md
 - audience-and-objectives.md
 - iterative-development.md
 - collaboration.md
