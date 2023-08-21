@@ -26,9 +26,9 @@ By the end of this session, participants should be able to...
 
 ## Reading List
 
-- [CLDT episode: Designing Assessments](https://carpentries.github.io/lesson-development-training/13-exercises.html)
-- [CLDT episode: Preparing to Teach](https://carpentries.github.io/lesson-development-training/20-preparing.html)
-- [CLDT episode: Reflecting on Trial Runs](https://carpentries.github.io/lesson-development-training/22-reflecting.html)
+- [CLDT episode: Designing Assessments](https://carpentries.github.io/lesson-development-training/exercises.html)
+- [CLDT episode: Preparing to Teach](https://carpentries.github.io/lesson-development-training/preparing.html)
+- [CLDT episode: Reflecting on Trial Runs](https://carpentries.github.io/lesson-development-training/reflecting.html)
 - [_Lesson Pilot Workshops - Information for Lesson Developers_](https://docs.carpentries.org/topic_folders/lesson_development/lesson_pilots.html#information-for-lesson-developers) from The Carpentries Handbook
 - (**optional**) Refresh your memory of sections 4.4 (_Develop assessments to ensure progression_) & 4.5 (_Evaluate course effectiveness_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1] (part of reading list for [a previous session](./backward-design.md))
 - (**optional**) [The _Exercise Types_ section of _Teaching Tech Together_ by Greg Wilson](http://teachtogether.tech/en/index.html#s:exercises)
@@ -66,11 +66,11 @@ By the end of this session, participants should be able to...
 
 ## Homework/Reading for Next Week
 
-- **Homework:** Read [CLDT episode: Example Data and Narrative](https://carpentries.github.io/lesson-development-training/15-narrative.html) 
+- **Homework:** Read [CLDT episode: Example Data and Narrative](https://carpentries.github.io/lesson-development-training/narrative.html) 
   and comment on https://github.com/carpentries/lesson-development-training/issues/210
   to share your thoughts on whether this content should appear earlier in the curriculum.
-- [CLDT episode: Collaborating with Your Team](https://carpentries.github.io/lesson-development-training/24-collaborating.html)
-- [CLDT episode: Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/26-external.html)
+- [CLDT episode: Collaborating with Your Team](https://carpentries.github.io/lesson-development-training/collaborating.html)
+- [CLDT episode: Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/external.html)
 - [Greg Wilson's Blogpost on Martha's Rules](https://third-bit.com/files/2020/08/marthas/)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

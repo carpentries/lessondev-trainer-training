@@ -25,11 +25,11 @@ By the end of this session, participants should be able to...
 
 ## Reading List
 
-- **Homework:** Read [CLDT episode: Example Data and Narrative](https://carpentries.github.io/lesson-development-training/15-narrative.html) 
+- **Homework:** Read [CLDT episode: Example Data and Narrative](https://carpentries.github.io/lesson-development-training/narrative.html) 
   and comment on https://github.com/carpentries/lesson-development-training/issues/210
   to share your thoughts on whether this content should appear earlier in the curriculum.
-- [CLDT episode: Collaborating with Your Team](https://carpentries.github.io/lesson-development-training/24-collaborating.html)
-- [CLDT episode: Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/26-external.html)
+- [CLDT episode: Collaborating with Your Team](https://carpentries.github.io/lesson-development-training/collaborating.html)
+- [CLDT episode: Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/external.html)
 - [Greg Wilson's Blogpost on Martha's Rules](https://third-bit.com/files/2020/08/marthas/)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
