@@ -8,8 +8,7 @@ exercises: 55
 
 - Why is formative assessment so essential in a lesson?
 - What role does feedback play in iterative lesson development?
-- How is the iterative aspect of lesson development incorporated 
-  into Collaborative Lesson Development Training?
+- How is the iterative aspect of lesson development incorporated into Collaborative Lesson Development Training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -43,22 +42,13 @@ By the end of this session, participants should be able to...
 - What are different formative assessment strategies that can help diagnose issues with the lesson?
   Discuss the effectiveness of those strategies. 
   Give some examples of what actionable feedback might look like.
-- How do you think the optimal ratio of time spent on teaching and exercises changes
-  as learner expertise increases?
-  E.g. do you think a novice lesson will include more content to be taught 
-  and less time devoted to challenges/discussions, 
-  compared to an intermediate lesson on a similar topic?
-- What are some advantages and disadvantages of 
-  requiring trainees to teach (some of) their new lessons as part of their training?
+- How do you think the optimal ratio of time spent on teaching and exercises changes as learner expertise increases?
+  E.g. do you think a novice lesson will include more content to be taught and less time devoted to challenges/discussions, compared to an intermediate lesson on a similar topic?
+- What are some advantages and disadvantages of requiring trainees to teach (some of) their new lessons as part of their training?
 - How complete do you like a lesson to be before you teach it for the first time?
-- Some trainees are reluctant to trial incomplete or unstructured material, 
-  feeling a lack of confidence at being able to improvise in response to questions/unexpected results,
-  or fill in steps in the teaching examples on the fly.
-  What guidance would you give to a trainee, to help them find a balance between preparing lesson content
-  and taking an opportunity to gather feedback by teaching it?
-- What strategies could we encourage trainees to use,
-  to convert the feedback they gather when teaching a lesson into 
-  actionable recommendations for improving it?
+- Some trainees are reluctant to trial incomplete or unstructured material, feeling a lack of confidence at being able to improvise in response to questions/unexpected results, or fill in steps in the teaching examples on the fly.
+  What guidance would you give to a trainee, to help them find a balance between preparing lesson content and taking an opportunity to gather feedback by teaching it?
+- What strategies could we encourage trainees to use, to convert the feedback they gather when teaching a lesson into actionable recommendations for improving it?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -66,9 +56,7 @@ By the end of this session, participants should be able to...
 
 ## Homework/Reading for Next Week
 
-- **Homework:** Read [CLDT episode: Example Data and Narrative](https://carpentries.github.io/lesson-development-training/narrative.html) 
-  and comment on https://github.com/carpentries/lesson-development-training/issues/210
-  to share your thoughts on whether this content should appear earlier in the curriculum.
+- **Homework:** Read [CLDT episode: Example Data and Narrative](https://carpentries.github.io/lesson-development-training/narrative.html) and comment on https://github.com/carpentries/lesson-development-training/issues/210 to share your thoughts on whether this content should appear earlier in the curriculum.
 - [CLDT episode: Collaborating with Your Team](https://carpentries.github.io/lesson-development-training/collaborating.html)
 - [CLDT episode: Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/external.html)
 - [Greg Wilson's Blogpost on Martha's Rules](https://third-bit.com/files/2020/08/marthas/)
@@ -78,10 +66,8 @@ By the end of this session, participants should be able to...
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - The effectiveness of a lesson can only be assessed by teaching it.
-- Direct and indirect feedback collected while teaching should be used to
-  improve the lesson for next time.
-- Trainees are required to try teaching a section of their new lesson in a "trial run"
-  during the break in Collaborative Lesson Development Training.
+- Direct and indirect feedback collected while teaching should be used to improve the lesson for next time.
+- Trainees are required to try teaching a section of their new lesson in a "trial run" during the break in Collaborative Lesson Development Training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
