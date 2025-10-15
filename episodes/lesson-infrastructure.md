@@ -37,15 +37,12 @@ By the end of this session, participants should be able to...
 
 ## Discussion Questions
 
-- The reading/homework task for this week asked you to read through and follow the steps 
-  in the Carpentries Workbench episode of the CLDT curriculum.
+- The reading/homework task for this week asked you to read through and follow the steps in the Carpentries Workbench episode of the CLDT curriculum.
     - Were you able to do this?
     - If you got stuck at any point while following those steps:
         - where did you get stuck?
         - were you able to find a solution to your problem and continue? if so, what did you do to find the solution?
-- Although [some experience of GitHub is specified as a prerequisite for CLDT](https://carpentries.github.io/lesson-development-training/index.html#prerequisites),
-  we can expect some trainees to arrive with little familiarity or confidence with the platform 
-  and the terminology associated with Git and GitHub.
+- Although [some experience of GitHub is specified as a prerequisite for CLDT](https://carpentries.github.io/lesson-development-training/index.html#prerequisites), we can expect some trainees to arrive with little familiarity or confidence with the platform and the terminology associated with Git and GitHub.
   Furthermore, this may be the first time trainees have encountered a GitHub Pages project.
     - What "sticking points" do you anticipate among trainees learning to use the infrastructure to build a lesson website?
 - What strategies could Trainers/The Carpentries adopt to support trainees as they learn these skills
