@@ -30,9 +30,8 @@ By the end of this session, participants should be able to...
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
 ## Reading List
-- [CLDT episode: Identifying Your Target Audience](https://carpentries.github.io/lesson-development-training/audience.html)
-- [CLDT episode: Defining Lesson Objectives/Outcomes](https://carpentries.github.io/lesson-development-training/objectives.html)
-- Section 3 (_Formal curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
+- [CLDT episode: Identifying Your Target Audience](https://tobyhodges.github.io/cldt26-preview/instructor/audience.html)
+- [CLDT episode: Defining Lesson Objectives/Outcomes](https://tobyhodges.github.io/cldt26-preview/instructor/objectives.html)
 - [Kirschner et al. 2006](https://carpentries.github.io/lesson-development-training/reference.html#litref)
 - [Lujan & DiCarlo 2005](https://carpentries.github.io/lesson-development-training/reference.html#litref)
 - (**Optional**) Chapter 1, How Does Students’ Prior Knowledge Affect Their Learning?, of Ambrose et al. 2010.↩︎
@@ -56,10 +55,10 @@ By the end of this session, participants should be able to...
 
 ## Homework/Reading for Next Week
 
-- [CLDT episode: Designing Assessments](https://carpentries.github.io/lesson-development-training/exercises.html)
-- [CLDT episode: Preparing to Teach](https://carpentries.github.io/lesson-development-training/preparing.html)
-- [CLDT episode: Reflecting on Trial Runs](https://carpentries.github.io/lesson-development-training/reflecting.html)
-- [_Lesson Pilot Workshops - Information for Lesson Developers_](https://docs.carpentries.org/topic_folders/lesson_development/lesson_pilots.html#information-for-lesson-developers) from The Carpentries handbook
+- [CLDT episode: Designing Exercises](https://tobyhodges.github.io/cldt26-preview/instructor/formative-assessment.html)
+- [CLDT episode: Preparing to Teach](https://tobyhodges.github.io/cldt26-preview/instructor/preparing.html)
+- [Lesson Developer Checkout Process information](https://tobyhodges.github.io/cldt26-preview/instructor/checkout.html)
+- [_Lesson Pilot Workshops - Information for Lesson Developers_](https://docs.carpentries.org/resources/curriculum/lesson-pilots.html#information-for-lesson-developers) from The Carpentries Lesson Developer Handbook
 - (**optional**) Refresh your memory of sections 4.4 (_Develop assessments to ensure progression_) & 4.5 (_Evaluate course effectiveness_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1] (part of reading list for [a previous session](./backward-design.md))
 - (**optional**) [The _Exercise Types_ section of _Teaching Tech Together_ by Greg Wilson](http://teachtogether.tech/en/index.html#s:exercises)
 

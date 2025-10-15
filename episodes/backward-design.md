@@ -25,8 +25,7 @@ By the end of this session, participants should be able to...
 
 ## Reading List
 
-- [CLDT episode: Lesson Design](https://carpentries.github.io/lesson-development-training/lesson-design.html)
-- [Curriculum Development Handbook: Backward design](https://carpentries.github.io/curriculum-development/guiding-principles.html#backward-design)
+- [CLDT episode: Lesson Design](https://tobyhodges.github.io/cldt26-preview/instructor/lesson-design.html)
 - Section 4 (_Nicholls’ five phases of curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -54,9 +53,8 @@ By the end of this session, participants should be able to...
 ## Homework/Reading for Next Week
 
 ## Reading List
-- [CLDT episode: Identifying Your Target Audience](https://carpentries.github.io/lesson-development-training/audience.html)
-- [CLDT episode: Defining Lesson Objectives/Outcomes](https://carpentries.github.io/lesson-development-training/objectives.html)
-- Section 3 (_Formal curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
+- [CLDT episode: Identifying Your Target Audience](https://tobyhodges.github.io/cldt26-preview/instructor/audience.html)
+- [CLDT episode: Defining Lesson Objectives/Outcomes](https://tobyhodges.github.io/cldt26-preview/instructor/objectives.html)
 - [Kirschner et al. 2006](https://carpentries.github.io/lesson-development-training/reference.html#litref)
 - [Lujan & DiCarlo 2005](https://carpentries.github.io/lesson-development-training/reference.html#litref)
 - (**Optional**) Chapter 1, How Does Students’ Prior Knowledge Affect Their Learning?, of Ambrose et al. 2010.↩︎
@@ -78,4 +76,3 @@ By the end of this session, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[^1]: Via A, Palagi PM, Lindvall JM et al. Course design: Considerations for trainers – a Professional Guide [version 1; not peer reviewed]. F1000Research 2020, 9:1377 (document) (https://doi.org/10.7490/f1000research.1118395.1)
