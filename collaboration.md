@@ -25,10 +25,10 @@ By the end of this session, participants should be able to...
 
 ## Reading List
 
-- **Homework:** Read [CLDT episode: Example Data and Narrative](https://carpentries.github.io/lesson-development-training/narrative.html) and comment on https://github.com/carpentries/lesson-development-training/issues/210 to share your thoughts on whether this content should appear earlier in the curriculum.
-- [CLDT episode: Collaborating with Your Team](https://carpentries.github.io/lesson-development-training/collaborating.html)
-- [CLDT episode: Collaborating with Newcomers](https://carpentries.github.io/lesson-development-training/external.html)
-- [Greg Wilson's Blogpost on Martha's Rules](https://third-bit.com/files/2020/08/marthas/)
+- [CLDT episode: Example Data and Narrative](https://tobyhodges.github.io/cldt26-preview/instructor/narrative.html).
+- [_Choosing a Narrative and Dataset for a Lesson_](https://docs.carpentries.org/resources/curriculum/narrative-example-data) from The Carpentries Lesson Developer Handbook
+- [Pilot Workshop Debrief facilitation guide](https://tobyhodges.github.io/cldt26-preview/instructor/reflecting.html)
+- [_GitHub for Maintainers and Lesson Developers_](https://carpentries.github.io/github-skills/instructor/index.html) skill-up curriculum
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -37,11 +37,11 @@ By the end of this session, participants should be able to...
 
 ## Discussion Questions
 
-- How have you made decisions with collaborators in the past?
-- Did you use any formal decision-making framework(s)?
-- What might be the advantages and drawbacks of using a formal decision-making framework?
 - In your experience, what are some of the advantages and disadvantages of collaborating on a project (lesson development or something else), as opposed to working alone?
 - What strategies have you used to work successfully with collaborators in the past?  Do those strategies change with the size of the group?
+- How confident do you feel about leading Pilot Workshop Debrief session for lesson developers?
+- How confident do you feel about leading a GitHub Skill-up session?
+- What questions do you have about the checkout process for Lesson Developer certification?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -50,8 +50,9 @@ By the end of this session, participants should be able to...
 
 ## Homework/Reading for Next Week
 
--  Read [CLDT episode: The Carpentries Workbench](https://carpentries.github.io/lesson-development-training/infrastructure.html) and follow the steps in the episode, creating and configuring a new lesson repository, while you read through the content. 
+-  Read [CLDT episode: The Carpentries Workbench](https://tobyhodges.github.io/cldt26-preview/instructor/infrastructure.html) and follow the steps in the episode, creating and configuring a new lesson repository, while you read through the content. 
   - Note down any problems you encounter along the way, no matter whether they were minor (i.e. slowed you down or confused you temporarily, but did not stop you from progressing) or major (i.e. you had to give up or ask for help).
+- [CLDT episode: Adding Lesson Content](https://tobyhodges.github.io/cldt26-preview/instructor/lesson-content.html)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
