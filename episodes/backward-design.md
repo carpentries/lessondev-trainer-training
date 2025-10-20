@@ -23,7 +23,7 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading List
+## Reading List for Today
 
 - [CLDT episode: Lesson Design](https://tobyhodges.github.io/cldt26-preview/instructor/lesson-design.html)
 - Section 4 (_Nicholls’ five phases of curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
@@ -48,11 +48,10 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Homework/Reading for Next Week
+## Reading List for Next Week
 
-## Reading List
 - [CLDT episode: Identifying Your Target Audience](https://tobyhodges.github.io/cldt26-preview/instructor/audience.html)
 - [CLDT episode: Defining Lesson Objectives/Outcomes](https://tobyhodges.github.io/cldt26-preview/instructor/objectives.html)
 - [Kirschner et al. 2006](https://carpentries.github.io/lesson-development-training/reference.html#litref)
