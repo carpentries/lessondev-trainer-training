@@ -23,7 +23,7 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading List
+## Reading List for Today
 
 - [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - Sections 1-3 of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1].
@@ -95,7 +95,7 @@ The curriculum belongs to the community - let's develop it together!
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading for Next Week
+## Reading List for Next Week
 - [CLDT episode: Lesson Design](https://tobyhodges.github.io/cldt26-preview/instructor/lesson-design.html)
 - Section 4 (_Nicholls’ five phases of curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
 
