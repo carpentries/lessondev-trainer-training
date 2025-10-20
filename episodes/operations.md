@@ -24,7 +24,7 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading List
+## Reading List for Today
 
 - [CLDT Episode: How We Operate](https://carpentries.github.io/lesson-development-training/operations.html)
 - The content of this episode, below.
