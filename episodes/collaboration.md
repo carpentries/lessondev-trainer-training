@@ -23,7 +23,7 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading List
+## Reading List for Today
 
 - [CLDT episode: Example Data and Narrative](https://tobyhodges.github.io/cldt26-preview/instructor/narrative.html).
 - [_Choosing a Narrative and Dataset for a Lesson_](https://docs.carpentries.org/resources/curriculum/narrative-example-data) from The Carpentries Lesson Developer Handbook
@@ -46,12 +46,12 @@ By the end of this session, participants should be able to...
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Homework/Reading for Next Week
+## Reading List for Next Week
 
 -  Read [CLDT episode: The Carpentries Workbench](https://tobyhodges.github.io/cldt26-preview/instructor/infrastructure.html) and follow the steps in the episode, creating and configuring a new lesson repository, while you read through the content. 
-  - Note down any problems you encounter along the way, no matter whether they were minor (i.e. slowed you down or confused you temporarily, but did not stop you from progressing) or major (i.e. you had to give up or ask for help).
+    - Note down any problems you encounter along the way, no matter whether they were minor (i.e. slowed you down or confused you temporarily, but did not stop you from progressing) or major (i.e. you had to give up or ask for help).
 - [CLDT episode: Adding Lesson Content](https://tobyhodges.github.io/cldt26-preview/instructor/lesson-content.html)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
