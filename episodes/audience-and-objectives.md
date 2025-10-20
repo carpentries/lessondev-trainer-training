@@ -29,7 +29,7 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading List
+## Reading List for Today
 - [CLDT episode: Identifying Your Target Audience](https://tobyhodges.github.io/cldt26-preview/instructor/audience.html)
 - [CLDT episode: Defining Lesson Objectives/Outcomes](https://tobyhodges.github.io/cldt26-preview/instructor/objectives.html)
 - [Kirschner et al. 2006](https://carpentries.github.io/lesson-development-training/reference.html#litref)
@@ -51,9 +51,9 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Homework/Reading for Next Week
+## Reading List for Next Week
 
 - [CLDT episode: Designing Exercises](https://tobyhodges.github.io/cldt26-preview/instructor/formative-assessment.html)
 - [CLDT episode: Preparing to Teach](https://tobyhodges.github.io/cldt26-preview/instructor/preparing.html)
