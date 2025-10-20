@@ -23,7 +23,7 @@ By the end of this session, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Reading List
+## Reading List for Today
 
 - [CLDT episode: Designing Exercises](https://tobyhodges.github.io/cldt26-preview/instructor/formative-assessment.html)
 - [CLDT episode: Preparing to Teach](https://tobyhodges.github.io/cldt26-preview/instructor/preparing.html)
@@ -52,9 +52,9 @@ By the end of this session, participants should be able to...
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::: challenge
+:::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
-## Homework/Reading for Next Week
+## Reading List for Next Week
 
 - [CLDT episode: Example Data and Narrative](https://tobyhodges.github.io/cldt26-preview/instructor/narrative.html).
 - [_Choosing a Narrative and Dataset for a Lesson_](https://docs.carpentries.org/resources/curriculum/narrative-example-data) from The Carpentries Lesson Developer Handbook
