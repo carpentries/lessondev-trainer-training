@@ -6,12 +6,12 @@ exercises: 30
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Why is it essential to understand the target audience before starting the lesson development process?
-- How does prior knowledge affect learning?
-- How do learner profiles help define the learning outcomes?
-- What are SMART objectives?
-- How is Bloom’s Taxonomy used in formulating Learning Objectives?
-- How do good objectives help with focus and provide scope for the lesson?
+* Why is it essential to understand the target audience before starting the lesson development process?
+* How does prior knowledge affect learning?
+* How do learner profiles help define the learning outcomes?
+* What are SMART objectives?
+* How is Bloom’s Taxonomy used in formulating Learning Objectives?
+* How do good objectives help with focus and provide scope for the lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -30,24 +30,26 @@ By the end of this session, participants should be able to...
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
 ## Reading List for Today
-- [CLDT episode: Identifying Your Target Audience](https://tobyhodges.github.io/cldt26-preview/instructor/audience.html)
-- [CLDT episode: Defining Lesson Objectives/Outcomes](https://tobyhodges.github.io/cldt26-preview/instructor/objectives.html)
-- [Kirschner et al. 2006](https://carpentries.github.io/lesson-development-training/reference.html#litref)
-- [Lujan & DiCarlo 2005](https://carpentries.github.io/lesson-development-training/reference.html#litref)
-- (**Optional**) Chapter 1, How Does Students’ Prior Knowledge Affect Their Learning?, of Ambrose et al. 2010.↩︎
-- (**Optional**) Chapter 2, How Does the Way Students Organize Knowledge Affect Their Learning?, of Ambrose et al. 2010.↩︎
+
+* [CLDT episode: Identifying Your Target Audience](https://tobyhodges.github.io/cldt26-preview/instructor/audience.html)
+* [CLDT episode: Defining Lesson Objectives/Outcomes](https://tobyhodges.github.io/cldt26-preview/instructor/objectives.html)
+* [Kirschner et al. 2006](https://carpentries.github.io/lesson-development-training/reference.html#litref)
+* [Lujan & DiCarlo 2005](https://carpentries.github.io/lesson-development-training/reference.html#litref)
+* (**Optional**) Chapter 1, How Does Students’ Prior Knowledge Affect Their Learning?, of Ambrose et al. 2010.↩︎
+* (**Optional**) Chapter 2, How Does the Way Students Organize Knowledge Affect Their Learning?, of Ambrose et al. 2010.↩︎
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: discussion
 
 ## Discussion Questions
-- What should a good description of your target audience include?
-- What are the different ways the clear description of the target can be used?
-- Can you give examples from your teaching of a situation when prior knowledge impacted learning? Did that make you change the way you teach this particular content?
-- Why is specificity important when describing the target audience?
-- What is your experience using Bloom’s taxonomy to define lesson objectives? Do you find it helpful, and why?
-- Can you give some examples of unrealistic and realistic goals for specific audiences?
+
+* What should a good description of your target audience include?
+* What are the different ways the clear description of the target can be used?
+* Can you give examples from your teaching of a situation when prior knowledge impacted learning? Did that make you change the way you teach this particular content?
+* Why is specificity important when describing the target audience?
+* What is your experience using Bloom’s taxonomy to define lesson objectives? Do you find it helpful, and why?
+* Can you give some examples of unrealistic and realistic goals for specific audiences?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -55,21 +57,21 @@ By the end of this session, participants should be able to...
 
 ## Reading List for Next Week
 
-- [CLDT episode: Designing Exercises](https://tobyhodges.github.io/cldt26-preview/instructor/formative-assessment.html)
-- [CLDT episode: Preparing to Teach](https://tobyhodges.github.io/cldt26-preview/instructor/preparing.html)
-- [Lesson Developer Checkout Process information](https://tobyhodges.github.io/cldt26-preview/instructor/checkout.html)
-- [_Lesson Pilot Workshops - Information for Lesson Developers_](https://docs.carpentries.org/resources/curriculum/lesson-pilots.html#information-for-lesson-developers) from The Carpentries Lesson Developer Handbook
-- (**optional**) Refresh your memory of sections 4.4 (_Develop assessments to ensure progression_) & 4.5 (_Evaluate course effectiveness_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1] (part of reading list for [a previous session](./backward-design.md))
-- (**optional**) [The _Exercise Types_ section of _Teaching Tech Together_ by Greg Wilson](http://teachtogether.tech/en/index.html#s:exercises)
+* [CLDT episode: Designing Exercises](https://tobyhodges.github.io/cldt26-preview/instructor/formative-assessment.html)
+* [CLDT episode: Preparing to Teach](https://tobyhodges.github.io/cldt26-preview/instructor/preparing.html)
+* [Lesson Developer Checkout Process information](https://tobyhodges.github.io/cldt26-preview/instructor/checkout.html)
+* [_Lesson Pilot Workshops - Information for Lesson Developers_](https://docs.carpentries.org/resources/curriculum/lesson-pilots.html#information-for-lesson-developers) from The Carpentries Lesson Developer Handbook
+* (**optional**) Refresh your memory of sections 4.4 (_Develop assessments to ensure progression_) & 4.5 (_Evaluate course effectiveness_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1] (part of reading list for [a previous session](./backward-design.md))
+* (**optional**) [The _Exercise Types_ section of _Teaching Tech Together_ by Greg Wilson](http://teachtogether.tech/en/index.html#s:exercises)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Getting a clear image of the target audience at the beginning of the lesson development process helps with better focus and making sure that the lesson will address the needs of the learners.
-- Understanding your audience’s prior knowledge will help you choose the right level of instruction and set realistic goals.
-- Communicating the target audience clearly will help you attract the right participants.
-- Bloom’s taxonomy serves as a very useful bank of action verbs for use in learning objectives.
-- SMART framework is a valuable tool used for defining clear objectives.
+* Getting a clear image of the target audience at the beginning of the lesson development process helps with better focus and making sure that the lesson will address the needs of the learners.
+* Understanding your audience’s prior knowledge will help you choose the right level of instruction and set realistic goals.
+* Communicating the target audience clearly will help you attract the right participants.
+* Bloom’s taxonomy serves as a very useful bank of action verbs for use in learning objectives.
+* SMART framework is a valuable tool used for defining clear objectives.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
