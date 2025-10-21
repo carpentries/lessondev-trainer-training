@@ -6,9 +6,9 @@ exercises: 50
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What is the format and schedule of Collaborative Lesson Development Training?
-- What pathways and support is available for lessons in The Carpentries?
-- What do lesson developers need to do to comple the training and get certified?
+* What is the format and schedule of Collaborative Lesson Development Training?
+* What pathways and support is available for lessons in The Carpentries?
+* What do lesson developers need to do to comple the training and get certified?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -16,8 +16,8 @@ exercises: 50
 
 By the end of this session, participants should be able to...
 
-- describe the lesson life cycle and the pathways a lesson can follow in The Carpentries community.
-- prepare to teach Collaborative Lesson Development Training.
+* describe the lesson life cycle and the pathways a lesson can follow in The Carpentries community.
+* prepare to teach Collaborative Lesson Development Training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -26,8 +26,8 @@ By the end of this session, participants should be able to...
 
 ## Reading List for Today
 
-- [CLDT Episode: How We Operate](https://carpentries.github.io/lesson-development-training/operations.html)
-- The content of this episode, below.
+* [CLDT Episode: How We Operate](https://carpentries.github.io/lesson-development-training/operations.html)
+* The content of this episode, below.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -63,12 +63,12 @@ Pilot Workshop Debrief and GitHub Skill-up sessions will be scheduled with Calen
 
 ## Discussion Questions
 
-- This training is about lesson design and development skills, not teaching skills.
-  How important do you think it is that every member of a collaborative group should _have to_ teach during their pilot workshop - as opposed to, say, one member teaching all of the groups' prepared episodes?
-- What questions do you have about how lesson development is done in The Carpentries community?
+* This training is about lesson design and development skills, not teaching skills.
+  How important do you think it is that every member of a collaborative group should _have to_ teach during their pilot workshop * as opposed to, say, one member teaching all of the groups' prepared episodes?
+* What questions do you have about how lesson development is done in The Carpentries community?
   E.g. The Carpentries Incubator, The Carpentries Lab, the lesson life cycle, the individual lesson programs of The Carpentries, Curriculum Advisors, Maintainers, and how all of these things fit together?
-- What questions do you have about how Collaborative Lesson Development Training will be administered?
-- How confident are you feeling about teaching the training for the first time?
+* What questions do you have about how Collaborative Lesson Development Training will be administered?
+* How confident are you feeling about teaching the training for the first time?
   What support could we provide to help you feel more confident about teaching the training?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -81,7 +81,7 @@ Pilot Workshop Debrief and GitHub Skill-up sessions will be scheduled with Calen
 Do the following to complete your Trainer certification:
 
 1. Comment on an issue, review an open pull request, or submit a new pull request to fix [an issue on the Collaborative Lesson Development Training curriculum][cldt-issues].
-    - Schedule a call with one of the facilitators if you would like help with this or if you have any follow-up questions.
+    * Schedule a call with one of the facilitators if you would like help with this or if you have any follow-up questions.
 2. Teach Collaborative Lesson Development Training alongside an experienced Trainer.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -93,13 +93,13 @@ Do the following to complete your Trainer certification:
 Take some time to reflect on everything you have read and discussed during this training, and make some notes for yourself that will help you prepare to teach the CLDT curriculum.
 You can do this however you please, but some suggested activities are:
 
-- Draw concept maps of the key topics covered in the curriculum. 
+* Draw concept maps of the key topics covered in the curriculum. 
   For example, you could try to draw a concept map for one (or all!) of the three main themes of the training: lesson design & development, lesson infrastructure, and collaboration skills.
-- The Instructor Training curriculum contains 
+* The Instructor Training curriculum contains 
   [a list of Top Ten Tips for Participatory Live Coding](https://carpentries.github.io/instructor-training/17-live.html#top-ten-tips-for-participatory-live-coding-in-a-workshop).
   Try to prepare a similar list of tips for collaborative lesson development, summarising what you judge to be the most important practices/advice provided in the curriculum. 
   (Your list does not have to contain exactly ten items!)
-- Connecting the concepts and practices taught in the CLDT curriculum with your own experience of collaboration and lesson/curriculum design and development, make notes about anecdotes and examples you could share when delivering the training.
+* Connecting the concepts and practices taught in the CLDT curriculum with your own experience of collaboration and lesson/curriculum design and development, make notes about anecdotes and examples you could share when delivering the training.
 
 Although these activities are primarily intended to be for yourself, the notes you take could also be helpful resources for others.
 If you are comfortable doing so, why not share what with the others in your cohort, or even open a pull request to add it to [the curriculum repository](https://github.com/carpentries/lessondev-trainer-training)?
@@ -109,9 +109,9 @@ If you are comfortable doing so, why not share what with the others in your coho
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Collaborative Lesson Development Training is designed to be taught in two parts, with an extended break in between.
-- The Carpentries Incubator is a space for community development of lessons. Lessons developed in the Incubator can be submitted for open peer review and acceptance to The Carpentries Lab, and/or adoption as a new official lesson one of The Carpentries lesson programs.
-- To complete certification, trainees must participate in both parts of the training and perform a trial run of at least some of their lesson during the break.
+* Collaborative Lesson Development Training is designed to be taught in two parts, with an extended break in between.
+* The Carpentries Incubator is a space for community development of lessons. Lessons developed in the Incubator can be submitted for open peer review and acceptance to The Carpentries Lab, and/or adoption as a new official lesson one of The Carpentries lesson programs.
+* To complete certification, trainees must participate in both parts of the training and perform a trial run of at least some of their lesson during the break.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
