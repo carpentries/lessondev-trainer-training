@@ -19,11 +19,11 @@ exercises: 30
 
 By the end of this session, participants should be able to...
 
-- Explain the importance of a well-defined target audience.
-- List at least four things lesson developers should know about their target audience.
-- Explain how Bloom’s taxonomy and SMART framework can help define learning objectives.
-- Evaluate lesson objectives and make suggestions for improvements.
-- Explain how the objectives are used to give the lesson more focus.
+* Explain the importance of a well-defined target audience.
+* List at least four things lesson developers should know about their target audience.
+* Explain how Bloom’s taxonomy and SMART framework can help define learning objectives.
+* Evaluate lesson objectives and make suggestions for improvements.
+* Explain how the objectives are used to give the lesson more focus.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
