@@ -6,8 +6,8 @@ exercises: 30
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What can I expect from this Training?
-- What is expected of me in this Training?
+* What can I expect from this Training?
+* What is expected of me in this Training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -15,8 +15,8 @@ exercises: 30
 
 By the end of this session, participants should be able to...
 
-- describe the format of the Trainer Training program and sessions.
-- summarise the lesson development experience of the participants in the cohort.
+* describe the format of the Trainer Training program and sessions.
+* summarise the lesson development experience of the participants in the cohort.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -25,8 +25,8 @@ By the end of this session, participants should be able to...
 
 ## Reading List for Today
 
-- [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-- Sections 1-3 of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1].
+* [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+* Sections 1-3 of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1].
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -51,10 +51,10 @@ The reading and other tasks have been selected to provide trainees with insight 
 
 Each episode of this lesson site corresponds to a week of Trainer Training, and contains _Reading List_, _Discussion Questions_ and _Homework/Reading for Next Week_ blocks.
 
-- _Reading List_: these are the resources trainees should read _before joining_ the weekly discussion call.
+* _Reading List_: these are the resources trainees should read _before joining_ the weekly discussion call.
   When reading episodes from the CLDT curriculum, please make sure that you are viewing the page in _Instructor View_ so that inline Instructor Notes are displayed on the page.
-- _Discussion Questions_: these questions will form the basis for the agenda of the weekly discussion call, though discussions are likely to elaborate on and stray away from these starting questions.
-- _Homework/Reading for Next Week_: this block provides trainees with an overview of the tasks they are expected to complete before the next weekly discussion call.
+* _Discussion Questions_: these questions will form the basis for the agenda of the weekly discussion call, though discussions are likely to elaborate on and stray away from these starting questions.
+* _Homework/Reading for Next Week_: this block provides trainees with an overview of the tasks they are expected to complete before the next weekly discussion call.
 
 The final episode provides a list of tasks trainees need to complete before they can be certified as a Lesson Developer Trainer.
 
@@ -86,9 +86,9 @@ The curriculum belongs to the community - let's develop it together!
 
 ## Discussion Questions
 
-- What questions do you have about this training?
-- In your experience, what are some good practices people can adopt to help them develop better lessons/curriculum?
-- What topics are you hoping to find are covered in the Collaborative Lesson Development Training curriculum?
+* What questions do you have about this training?
+* In your experience, what are some good practices people can adopt to help them develop better lessons/curriculum?
+* What topics are you hoping to find are covered in the Collaborative Lesson Development Training curriculum?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -96,15 +96,16 @@ The curriculum belongs to the community - let's develop it together!
 :::::::::::::::::::::::::::::::::::::::::::::::::: checklist
 
 ## Reading List for Next Week
-- [CLDT episode: Lesson Design](https://tobyhodges.github.io/cldt26-preview/instructor/lesson-design.html)
-- Section 4 (_Nicholls’ five phases of curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
+
+* [CLDT episode: Lesson Design](https://tobyhodges.github.io/cldt26-preview/instructor/lesson-design.html)
+* Section 4 (_Nicholls’ five phases of curriculum design_) of [_Course design: Considerations for trainers - a Professional Guide_](https://doi.org/10.7490/f1000research.1118395.1) by Allegra Via et al, 2020[^1]
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- The training program will provide an overview of the Collaborative Lesson Development Training curriculum, the key concepts and principles behind it, and opportunities to discuss all of this with the other members of the cohort.
-- In addition to attending weekly discussion sessions, trainees are required to complete reading and occasional homework tasks before they become certified Trainers.
+* The training program will provide an overview of the Collaborative Lesson Development Training curriculum, the key concepts and principles behind it, and opportunities to discuss all of this with the other members of the cohort.
+* In addition to attending weekly discussion sessions, trainees are required to complete reading and occasional homework tasks before they become certified Trainers.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
