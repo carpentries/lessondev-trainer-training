@@ -57,7 +57,7 @@ By the end of this session, participants should be able to...
 ## Reading List for Next Week
 
 * [CLDT episode: Example Data and Narrative](https://tobyhodges.github.io/cldt26-preview/instructor/narrative.html).
-* [_Choosing a Narrative and Dataset for a Lesson_](https://docs.carpentries.org/resources/curriculum/narrative-example-data) from The Carpentries Lesson Developer Handbook
+* [_Choosing a Narrative and Dataset for a Lesson_](https://docs.carpentries.org/resources/curriculum/narrative-example-data.html) from The Carpentries Lesson Developer Handbook
 * [Pilot Workshop Debrief facilitation guide](https://tobyhodges.github.io/cldt26-preview/instructor/reflecting.html)
 * [_GitHub for Maintainers and Lesson Developers_](https://carpentries.github.io/github-skills/instructor/index.html) skill-up curriculum
 
